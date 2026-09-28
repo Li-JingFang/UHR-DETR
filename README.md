@@ -18,6 +18,10 @@ pip install psutil
 
 > Note: CUDA 11.8 is used as an example. Adjust the PyTorch `--index-url` according to your CUDA version.
 
+## Datasets
+
+The preprocessed datasets are publicly available on [Baidu Netdisk](https://pan.baidu.com/s/1A_eVX5Nn4y6draFvZJGL0w?pwd=27we) (extraction code: `27we`).
+
 ## Quick Start
 
 Train:
